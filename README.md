@@ -29,7 +29,7 @@
 
   
 
-I'm Alexis Capon, a French student :fr: in an **French Engineering School**, pursuing a **Master of Science in Engineering** specialized in **AI, Big Data and Analytics**. 
+I'm **Alexis Capon**, a French student :fr: in a **French Engineering School**, pursuing a **Master of Science in Engineering** specialized in **AI, Big Data and Analytics**. 
 
 
 <h1 align="center"></h1>
