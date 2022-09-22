@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alexis !</h1>
+<h1 align="left">Hi 👋, I'm Alexis !</h1>
 <h3 align="center">A student in a French Engineering School, pursuing a Master of Science in Engineering specialized in AI, Big Data and Analytics</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexis-capon" alt="alexis-capon" /></a> </p>
