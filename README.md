@@ -33,10 +33,16 @@ I'm **Alexis Capon**, a French student :fr: in a **French Engineering School**, 
 
 
 <h1 align="center"></h1>
+ 
+<br>
+
+You will find here many of my **personal and academic projects** (Scrabble, Facial Recognition AI, Garry's Mod Addon's, ...).
+For more informations, you can check my [personnal website](https://alexiscapon.com/).
 
 
+<br>
 
-
+<h1 align="center"></h1>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexis-capon" alt="alexis-capon" /></a> </p>
 
