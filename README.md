@@ -1,5 +1,42 @@
-<h1 align="left">Hey 👋, I'm Alexis !</h1>
-I'm Alexis, student in a French Engineering School, pursuing a Master of Science in Engineering specialized in AI, Big Data and Analytics. 
+<h1 align="center"> Hey, welcome ! 👋 🇫🇷 🐓 </h1>
+
+<br>
+
+<table bgcolor="#ffffff">
+  <td>
+      <div>
+          <img src="https://risibank.fr/cache/medias/0/19/1919/191998/full.jpeg" height="200">
+      </div>
+  </td>
+  <td>
+      <div>
+          <img src="https://readme-typing-svg.herokuapp.com?&size=32&center=true&vCenter=true&width=600&lines=I'm+Alexis+Capon+!;French+Engineer+Student;Welcome+to+my+GitHub" />
+      </div>
+  </td>
+  <td>
+      <div>
+        <img src="https://png.pngitem.com/pimgs/s/38-380589_one-piece-luffy-chibi-hd-png-download.png" height="200">
+      </div>
+  </td>
+</table>
+
+<div align="center">
+<a href="mailto: alexis.capon@orange.fr">
+<img src="https://img.shields.io/badge/-alexis.capon@orange.fr-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>  <a href="https://www.linkedin.com/in/alexis-capon/"><img src="https://img.shields.io/badge/alexiscapon-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  <a  href="https://www.alexiscapon.com/"><img src="https://img.shields.io/badge/alexiscapon.com-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
+</div>
+
+<br><br>
+
+  
+
+I'm Alexis Capon, a French student :fr: in an **French Engineering School**, pursuing a **Master of Science in Engineering** specialized in **AI, Big Data and Analytics**. 
+
+
+<h1 align="center"></h1>
+
+
+
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexis-capon" alt="alexis-capon" /></a> </p>
 
