@@ -10,7 +10,7 @@
   </td>
   <td>
       <div>
-          <img src="https://readme-typing-svg.herokuapp.com?&size=32&center=true&vCenter=true&width=600&lines=I'm+Alexis+Capon+!;French+Engineer+Student;Welcome+to+my+GitHub" />
+          <img src="https://readme-typing-svg.herokuapp.com?&size=32&center=true&vCenter=true&width=600&lines=I'm+Alexis+Capon+!;AI+Solution+Architect;Welcome+to+my+GitHub" />
       </div>
   </td>
   <td>
@@ -28,7 +28,9 @@
 <br><br>
 
   
-I'm **Alexis Capon**, a French student :fr: in a **French Engineering School**, pursuing a **Master of Science in Engineering** specialized in **AI, Big Data and Analytics**. 
+I'm **Alexis Capon**, a French Engineer :fr: specialized in **AI, Big Data and Analytics**. 
+
+AI Solution Architect / Software developper
 
 
 <h1 align="center"></h1>
