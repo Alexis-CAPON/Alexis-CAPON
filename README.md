@@ -10,7 +10,7 @@
   </td>
   <td>
       <div>
-          <img src="https://readme-typing-svg.herokuapp.com?&size=32&center=true&vCenter=true&width=600&lines=I'm+Alexis+Capon+!;AI+Solution+Architect;Welcome+to+my+GitHub" />
+          <img src="https://readme-typing-svg.herokuapp.com?&size=32&center=true&vCenter=true&width=600&lines=I'm+Alexis+Capon+!;Software+Engineer;Welcome+to+my+GitHub" />
       </div>
   </td>
   <td>
@@ -21,8 +21,8 @@
 </table>
 
 <div align="center">
-<a href="mailto: alexis.capon@orange.fr">
-<img src="https://img.shields.io/badge/-alexis.capon@orange.fr-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>  <a href="https://www.linkedin.com/in/alexis-capon/"><img src="https://img.shields.io/badge/alexiscapon-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  <a  href="https://www.alexiscapon.com/"><img src="https://img.shields.io/badge/alexiscapon.com-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
+<a href="mailto: contact@alexiscapon.com">
+<img src="https://img.shields.io/badge/-contact@alexiscapon.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>  <a href="https://www.linkedin.com/in/alexis-capon/"><img src="https://img.shields.io/badge/alexiscapon-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  <a  href="https://www.alexiscapon.com/"><img src="https://img.shields.io/badge/alexiscapon.com-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
 </div>
 
 <br><br>
@@ -30,7 +30,7 @@
   
 I'm **Alexis Capon**, a French Engineer :fr: specialized in **AI, Big Data and Analytics**. 
 
-AI Solution Architect / Software developper
+Software Engineer / AI Solution Architect
 
 
 <h1 align="center"></h1>
