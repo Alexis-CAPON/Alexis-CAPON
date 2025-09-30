@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">Alexis Capon</h1>
-<h3 align="center">25 years, Software Engineer</h3>
+<h3 align="center">25 years, Master's Student at Lehigh University</h3>
 
 - 📫 How to reach me **contact@alexiscapon.com**
 
